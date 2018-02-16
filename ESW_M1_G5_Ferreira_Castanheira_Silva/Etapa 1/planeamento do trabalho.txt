@@ -1,0 +1,16 @@
+Para a realização do diagrama de Gantt foram tidas em conta as principais actividades em que cada um dos nós estará envolvido e que já se sabe. À medida que são conhecidas novas actividades este diagrama vai sendo actualizado para uma melhor organização de todos.
+Apesar de não ser visivel, nem todos os elementos do grupo estão envolvidos nas mesmas actividades e com uma boa distribuição de trabalho é perfeitamente possivel tratar das coisas a tempo e cumprir o plano establecido.
+
+Factores de risco
+
+Para melhor se planear o projecto tambem é preciso ter em conta os possiveis factores de risco e o que fazer para os mitigar.
+
+DIficilmente existiram factores de risco do tipo tecnologico, uma vez que cada membro do grupo tem um computador pessoal com o software necessario e existem sempre dos copias do trabalho realizado, uma no disco outra num servidor remoto.
+
+Os membros da equipa têm um relação saudavel entre eles, o que permite afirmar que tambem será dificil ocorrerem surpresas a nivel humano e organizativo.
+
+O maior problema que prevemos é a exestencia de entregas ainda não marcadas no inforestudante e sem enunciados disponiveis o que não permite prever a carga de trabalho das mesmas. Caso aparece muito trabalho de outras unidades curriculares, e nenhum dos elementos do grupo consiga cobrir o trabalho de outro elemeto o projecto pode ver o seu inicio de zona de trabalho adiado.
+
+Ausencias imprevisas dos elementos do grupo tambem são uma preocupação e como anteriormente referido podem levar a uma nao possivel distribuição equilibrada do trabalho pelos elementos.
+
+De forma a mitigar estes factores de risco, existe um grupo de trabalho no discord,plataforma de comunicação, onde os elementos do grupo falam diariamente.
